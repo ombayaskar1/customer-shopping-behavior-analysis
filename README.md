@@ -21,28 +21,28 @@ This project demonstrates a complete Data Analytics workflow using Python, MySQL
 > Visualized key metrics such as sales trends, customer demographics, product performance, and purchasing behavior.
 
 **Tools & Technologies Used**
-Python
-Jupyter Notebook
-Pandas
-MySQL
-SQL
-Power BI
+> Python
+> Jupyter Notebook
+> Pandas
+> MySQL
+> SQL
+> Power BI
 
 **Key Outcomes**
-Cleaned and transformed raw data into an analysis-ready dataset.
-Extracted business insights using SQL queries.
-Built an interactive Power BI dashboard for effective data visualization and decision-making.
-Demonstrated an end-to-end data analytics workflow from data preparation to reporting.
+> Cleaned and transformed raw data into an analysis-ready dataset.
+> Extracted business insights using SQL queries.
+> Built an interactive Power BI dashboard for effective data visualization and decision-making.
+> Demonstrated an end-to-end data analytics workflow from data preparation to reporting.
 
 **Skills Demonstrated**
-Data Cleaning
-Data Transformation
-Exploratory Data Analysis (EDA)
-SQL Query Writing
-Database Management
-Data Visualization
-Business Insights Generation
-Dashboard Development
+> Data Cleaning
+> Data Transformation
+> Exploratory Data Analysis (EDA)
+> SQL Query Writing
+> Database Management
+> Data Visualization
+> Business Insights Generation
+> Dashboard Development
 
 This project showcases how raw customer shopping data can be converted into actionable business insights through data analytics 
 techniques and visualization tools.
